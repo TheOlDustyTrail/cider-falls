@@ -62,7 +62,7 @@ document.addEventListener(
 
                 }
             }
-            window.alert(`${serviceName} is avilable in ${allMatchingParkAreas}`)
+            window.alert(`${serviceName} is avilable in  ${allMatchingParkAreas}`)
 
 
 

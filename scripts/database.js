@@ -129,33 +129,96 @@ const database = {
     ],
     AreaServices: [{
         id: 1,
-        parkAreaID: 1,
+        parkAreaID: 3,
         serviceID: 1
 
-    }, {
+    },
+    {
         id: 2,
-        parkAreaID: 2,
-        serviceID: 2
+        parkAreaID: 5,
+        serviceID: 1
 
     }, {
         id: 3,
         parkAreaID: 3,
-        serviceID: 3
+        serviceID: 2
 
-    }, {
+    },
+    {
         id: 4,
-        parkAreaID: 4,
-        serviceID: 4
+        parkAreaID: 5,
+        serviceID: 2
 
     }, {
         id: 5,
-        parkAreaID: 5,
-        serviceID: 6
+        parkAreaID: 3,
+        serviceID: 3
 
     }, {
         id: 6,
+        parkAreaID: 5,
+        serviceID: 3
+
+    }, {
+        id: 7,
+        parkAreaID: 2,
+        serviceID: 4
+
+    }, {
+        id: 8,
+        parkAreaID: 3,
+        serviceID: 4
+
+    }, {
+        id: 9,
+        parkAreaID: 6,
+        serviceID: 4
+
+    }, {
+        id: 10,
+        parkAreaID: 1,
+        serviceID: 5
+
+    },
+    {
+        id: 11,
+        parkAreaID: 4,
+        serviceID: 5
+
+    }, {
+        id: 12,
         parkAreaID: 6,
         serviceID: 6
+
+    }, {
+        id: 13,
+        parkAreaID: 2,
+        serviceID: 6
+
+    }, {
+        id: 14,
+        parkAreaID: 6,
+        serviceID: 7
+
+    }, {
+        id: 15,
+        parkAreaID: 2,
+        serviceID: 8
+
+    }, {
+        id: 16,
+        parkAreaID: 1,
+        serviceID: 9
+
+    }, {
+        id: 17,
+        parkAreaID: 1,
+        serviceID: 10
+
+    }, {
+        id: 18,
+        parkAreaID: 6,
+        serviceID: 11
 
     },]
 

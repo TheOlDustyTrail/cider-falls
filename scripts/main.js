@@ -7,9 +7,14 @@ import { displayedServices } from "./services.js"
 const mainContainer = document.querySelector("#container")
 
 const applicationHTML = `
-<section class="parkArea">${theParkAreas()}</section>
-<article class="guests">${Guests()}</article>
-<div>${displayedServices()}</div>
+<article class= "parkAreaService"><section class="parkArea">${theParkAreas()}</section>
+<div class = "services">${displayedServices()}</div>
+<aside class="contact">
+<div>Phone number</div>
+<div>Email</div>
+<div>Address</div>
+</aside></article>
+<section class="guests">${Guests()}</section>
 `
 
 

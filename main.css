@@ -1,0 +1,51 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: medium;
+    /* display: flex;
+    justify-content: space-around;
+    align-items: ; */
+
+
+}
+
+#container {
+    display: flex;
+    border: 2px solid;
+    border-color: rgb(9, 209, 245);
+}
+
+.parkAreaService {
+
+
+    border: 2px solid;
+    border-color: rgb(243, 21, 21);
+
+
+}
+
+
+.parkArea {
+    display: flex;
+
+    border: 2px solid;
+    border-color: rgb(76, 233, 14);
+}
+
+.services {
+    display: flex;
+    border: 2px solid;
+    border-color: rgb(15, 15, 15);
+}
+
+.guests {
+
+
+    border: 2px solid;
+    border-color: rgb(9, 77, 179);
+
+}
